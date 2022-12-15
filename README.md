@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+# About My project
+
+I did complete 5 page. This views are only based on mobile view.
+
+I tried my best for authentication, but I failed with Phone no Authentication. I do email password authentication. But I hope I will do this after few research. Though I research those but not enough time.
+
+I did another mistake, I did not push me project from the beginning. I was try my best.
+
+I use bootstrap for my project.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

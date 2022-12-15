@@ -1,0 +1,9 @@
+.product-picture{
+    height: 90px;
+    width: 90px;
+}
+.row{
+    padding: 5px;
+    background: #ffff;
+    margin:10px;
+}
